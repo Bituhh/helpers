@@ -20,7 +20,7 @@ class Random {
         }
         return string;
     }
-    static number(max) {
+    static number(max = 1000) {
         return Math.floor(Math.random() * max);
     }
     static character(caseType = CaseType.lower) {
@@ -47,14 +47,14 @@ class Random {
         }
         return string;
     }
-    static array(size, maxValueInArray = 100) {
+    static array(size = 100, maxValueInArray = 1000) {
         const array = new Array(size);
         for (let i = 0; i < array.length; i++) {
             array[i] = Random.number(maxValueInArray);
         }
         return array;
     }
-    static columns(length) {
+    static columns(length = 10) {
         const obj = {};
         for (let i = 0; i < length; i++) {
             obj[Random.alphanumeric()] = Random.alphanumeric();

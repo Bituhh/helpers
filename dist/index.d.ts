@@ -5,10 +5,10 @@ export declare enum CaseType {
 }
 export declare class Random {
     static alphanumeric(length?: number): string;
-    static number(max: number): number;
+    static number(max?: number): number;
     static character(caseType?: CaseType): string;
     static string(length?: number, caseType?: CaseType): string;
-    static array(size: number, maxValueInArray?: number): number[];
+    static array(size?: number, maxValueInArray?: number): number[];
     private static columns;
     static table(maxColumnLength?: number, maxRowLength?: number): {
         [key: string]: any;

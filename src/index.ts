@@ -17,7 +17,7 @@ export class Random {
     return string;
   }
 
-  static number(max: number): number {
+  static number(max: number = 1000): number {
     return Math.floor(Math.random() * max);
   }
 
@@ -46,7 +46,7 @@ export class Random {
     return string;
   }
 
-  static array(size: number, maxValueInArray: number = 100): number[] {
+  static array(size: number = 100, maxValueInArray: number = 1000): number[] {
     const array = new Array(size);
     for (let i = 0; i < array.length; i++) {
       array[i] = Random.number(maxValueInArray);
@@ -54,7 +54,7 @@ export class Random {
     return array;
   }
 
-  private static columns(length: number): { [key: string]: string } {
+  private static columns(length: number = 10): { [key: string]: string } {
     const obj: { [key: string]: string } = {};
     for (let i = 0; i < length; i++) {
       obj[Random.alphanumeric()] = Random.alphanumeric();
