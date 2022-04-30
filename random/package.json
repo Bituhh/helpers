@@ -1,8 +1,14 @@
 {
-  "name": "helpers",
-  "version": "1.0.0",
-  "description": "Helpers used during development of an nodejs application.",
+  "name": "@bituhh/helpers-random",
+  "version": "0.0.1",
+  "description": "Random helpers used during development of a nodejs application",
   "main": "dist/index.js",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.30"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,11 +18,12 @@
   },
   "author": "Victor Oliveira",
   "license": "MIT",
+  "types": "./dist/index.d.ts",
   "bugs": {
     "url": "https://github.com/Bituhh/helpers/issues"
   },
   "homepage": "https://github.com/Bituhh/helpers#readme",
-  "devDependencies": {
-    "typescript": "^4.6.3"
-  }
+  "files": [
+    "dist"
+  ]
 }

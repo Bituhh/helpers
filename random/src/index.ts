@@ -1,3 +1,5 @@
+import {randomInt} from 'crypto';
+
 export enum CaseType {
   upper,
   lower,
@@ -17,8 +19,8 @@ export class Random {
     return string;
   }
 
-  static number(max: number = 1000): number {
-    return Math.floor(Math.random() * max);
+  static number(min: number = 0, max: number = 1000): number {
+    return randomInt(min, max);
   }
 
   static character(caseType: CaseType = CaseType.lower): string {

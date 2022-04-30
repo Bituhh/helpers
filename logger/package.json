@@ -1,0 +1,19 @@
+{
+  "name": "@bituhh/logger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bituhh/helpers.git"
+  },
+  "author": "Victor Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bituhh/helpers/issues"
+  },
+  "homepage": "https://github.com/Bituhh/helpers#readme"
+}
