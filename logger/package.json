@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Bituhh/helpers/issues"
   },
-  "homepage": "https://github.com/Bituhh/helpers#readme"
+  "homepage": "https://github.com/Bituhh/helpers#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.30",
+    "typescript": "^4.6.4"
+  },
+  "files": [
+    "dist"
+  ]
 }

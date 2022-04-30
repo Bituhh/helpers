@@ -32,17 +32,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/projects/helpers/api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\projects\\helpers\\random\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\projects\\helpers\\logger\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\helpers\api" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\projects\helpers" />
     </key>
@@ -56,12 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1650727846372</updated>
       <workItem from="1650727847685" duration="3275000" />
-      <workItem from="1651318814485" duration="5384000" />
+      <workItem from="1651318814485" duration="5440000" />
+      <workItem from="1651328947259" duration="1530000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/logger/src/status-code.js" />
+        <option value="$PROJECT_DIR$/logger/src/index.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
