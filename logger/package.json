@@ -1,10 +1,15 @@
 {
   "name": "@bituhh/logger",
-  "version": "0.0.1",
+  "version": "0.0.14",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "npm-check-updates": "^16.3.13",
+    "typescript": "^4.8.4"
   },
   "repository": {
     "type": "git",
@@ -16,10 +21,6 @@
     "url": "https://github.com/Bituhh/helpers/issues"
   },
   "homepage": "https://github.com/Bituhh/helpers#readme",
-  "devDependencies": {
-    "@types/node": "^17.0.30",
-    "typescript": "^4.6.4"
-  },
   "files": [
     "dist"
   ]

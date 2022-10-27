@@ -1,8 +1,2 @@
-
-random/node_modules/
-
-api/node_modules/
-
-logger/dist/
-
-random/dist/
+**/node_modules/
+**/dist/

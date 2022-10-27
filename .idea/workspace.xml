@@ -29,27 +29,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Project.color": "035933",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/projects/helpers/api",
+    "last_opened_file_path": "C:/projects/helpers/deployer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\projects\\helpers\\logger\\node_modules\\typescript\\lib",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "ts.external.directory.path": "C:\\projects\\helpers\\api\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\helpers\deployer" />
+      <recent name="C:\projects\helpers\logger\src" />
       <recent name="C:\projects\helpers\api" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\helpers\deployer\src" />
+      <recent name="C:\projects\helpers\deployer" />
+      <recent name="C:\projects\helpers\api\src" />
       <recent name="C:\projects\helpers" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="deploy.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deployer/src/deploy.ts" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.deploy.ts" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,17 +78,30 @@
       <workItem from="1650727847685" duration="3275000" />
       <workItem from="1651318814485" duration="5440000" />
       <workItem from="1651328947259" duration="1530000" />
+      <workItem from="1651331079669" duration="9445000" />
+      <workItem from="1651496323909" duration="593000" />
+      <workItem from="1652202315174" duration="815000" />
+      <workItem from="1657992791737" duration="4237000" />
+      <workItem from="1658263648566" duration="20000" />
+      <workItem from="1659273289220" duration="2295000" />
+      <workItem from="1659287823915" duration="8763000" />
+      <workItem from="1659551486004" duration="36000" />
+      <workItem from="1659551562561" duration="6232000" />
+      <workItem from="1659559701228" duration="3334000" />
+      <workItem from="1660034640487" duration="1229000" />
+      <workItem from="1660118967137" duration="44000" />
+      <workItem from="1666086726247" duration="829000" />
+      <workItem from="1666087660922" duration="50000" />
+      <workItem from="1666087768834" duration="410000" />
+      <workItem from="1666088924332" duration="6115000" />
+      <workItem from="1666095132391" duration="29870000" />
+      <workItem from="1666801754740" duration="1026000" />
+      <workItem from="1666880986446" duration="320000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/logger/src/status-code.js" />
-        <option value="$PROJECT_DIR$/logger/src/index.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
