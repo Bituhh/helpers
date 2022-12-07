@@ -40,7 +40,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "ts.external.directory.path": "C:\\projects\\helpers\\api\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\projects\\helpers\\logger\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,7 +96,8 @@
       <workItem from="1666088924332" duration="6115000" />
       <workItem from="1666095132391" duration="29870000" />
       <workItem from="1666801754740" duration="1026000" />
-      <workItem from="1666880986446" duration="320000" />
+      <workItem from="1666880986446" duration="653000" />
+      <workItem from="1667848807936" duration="2325000" />
     </task>
     <servers />
   </component>
