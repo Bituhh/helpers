@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3efe9e61-0bfa-4365-be4c-8c7c35d03d74" name="Changes" comment="" />
+    <list default="true" id="3efe9e61-0bfa-4365-be4c-8c7c35d03d74" name="Changes" comment="Adding naming-convention">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/src/naming-convension.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/src/naming-convention.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-convention/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/random" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,19 +50,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/projects/helpers/deployer",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/projects/react/helpers/naming-convention",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "ts.external.directory.path": "C:\\projects\\helpers\\logger\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\projects\\react\\helpers\\naming-convention\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\react\helpers\naming-convention" />
+      <recent name="C:\projects\react\helpers" />
       <recent name="C:\projects\helpers\deployer" />
       <recent name="C:\projects\helpers\logger\src" />
       <recent name="C:\projects\helpers\api" />
@@ -98,6 +118,9 @@
       <workItem from="1666801754740" duration="1026000" />
       <workItem from="1666880986446" duration="653000" />
       <workItem from="1667848807936" duration="2325000" />
+      <workItem from="1683831526779" duration="5656000" />
+      <workItem from="1684014595992" duration="1151000" />
+      <workItem from="1684138498929" duration="699000" />
     </task>
     <servers />
   </component>
@@ -120,5 +143,7 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/random" />
     </ignored-roots>
+    <MESSAGE value="Adding naming-convention" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding naming-convention" />
   </component>
 </project>
